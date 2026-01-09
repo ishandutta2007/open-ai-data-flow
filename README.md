@@ -44,6 +44,8 @@ In today's rapidly evolving data landscape, organizations face increasing challe
 ## Contributing 💖
 
 We welcome and encourage contributions from the community! If you're interested in making AI DataFlow even better, please refer to our `CONTRIBUTING.md` file for guidelines on how to submit bug reports, feature requests, or code contributions.
+-   **💬 [Discord](https://discord.com/invite/jc4xtF58Ve):** Chat with us on Discord for real-time support and discussions.
+-   **🐦 [Twitter](https://twitter.com/ishandutta2007):** Follow us on Twitter for the latest news and updates
 
 ## License 📄
 
