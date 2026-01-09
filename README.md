@@ -41,6 +41,12 @@ In today's rapidly evolving data landscape, organizations face increasing challe
 4.  **Run AI DataFlow**:
     Execute the AI DataFlow engine to start automating your ELT processes.
 
+
+### ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/open-ai-data-flow&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/open-ai-data-flow&type=date&legend=top-left)
+
+
 ## Contributing
 
 We welcome and encourage contributions from the community! If you're interested in making AI DataFlow even better, please refer to our `CONTRIBUTING.md` file for guidelines on how to submit bug reports, feature requests, or code contributions.
